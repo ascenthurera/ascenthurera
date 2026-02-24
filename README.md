@@ -37,7 +37,7 @@ If you’re working on **AI**, **Automation**, or **Hackathon projects**, I’d 
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](#) www.linkedin.com/in/muhammadabuhurera
-- ✉️ **Email:** ahureramuhammad@email.com
+- ✉️ **Email:** ascenthurera@email.com
 
 ---
 

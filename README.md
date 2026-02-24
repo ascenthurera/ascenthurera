@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Muhammad Abu Hurera!
 
-🎓 I'm a **final-year Computer Science student** at **Virtual University of Pakistan**, passionate about technology, learning, and innovation.  
+🎓 I'm a **final-year Computer Science student** at **Virtual University of Pakistan** and **Microsoft Certified: Azure Data Scientist Associate**, passionate about technology, learning, and innovation.  
 💼 Currently, I’m working at the **National Youth Leadership Program**, where I assist in various **IT-related tasks**.  
-🌱 I’m also a **Fellow at Amal Academy**, building essential professional communication and leadership skills to complement my technical expertise.
+🌱 I’m also a **Ex-Fellow at Amal Academy**, a **Stanford University Partner**, building essential professional communication and leadership skills to complement my technical expertise.
 
 ---
 

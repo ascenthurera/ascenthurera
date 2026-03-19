@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Muhammad Abu Hurera!
 
 🎓 I'm a **final-year Computer Science student** at **Virtual University of Pakistan** and **Microsoft Certified: Azure Data Scientist Associate**, passionate about technology, learning, and innovation.  
-💼 Currently, I’m working at the **National Youth Leadership Program**, where I assist in various **IT-related tasks**.  
-🌱 I’m also a **Ex-Fellow at Amal Academy**, a **Stanford University Partner**, building essential professional communication and leadership skills to complement my technical expertise.
+💼 Currently, I’m working at the **National Youth Leadership Program**, where I assist in various **IT Professional Tasks**.  
+🌱 I’m also a **Ex-Fellow at Amal Academy**, a **Stanford University Inspired Program**, building essential professional communication and leadership skills to complement my technical expertise.
 
 ---
 
@@ -24,8 +24,8 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Python  
-- **Tools & Platforms:** Microsoft Azure, Hyper-V, ESXi  
-- **Skills:** Networking, System Administration, Cloud Computing  
+- **Tools & Platforms:** Microsoft Azure, Hyper-V, ESXi, VMWare Workstation, Windows Server  
+- **Skills:** Networking, System Administration, Cloud Computing, Web Development  
 
 ---
 

@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 - **Languages:** C, C++, HTML, CSS, JS, PHP, Python  
 - **Tools & Platforms:** Microsoft Azure, Hyper-V, ESXi, VMWare Workstation, Windows Server, Email Server 
 - **Skills:** Networking, System Administration, Cloud Computing, Web Development  

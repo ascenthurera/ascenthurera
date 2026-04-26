@@ -1,6 +1,6 @@
 # 👋 Hi there!, I'm Muhammad Abu Hurera!
 
-🎓 I'm a **final-year Computer Science student** at **Virtual University of Pakistan** and **Microsoft Certified: Azure Data Scientist Associate**, **HCIA Data Com Huawei Certified**, passionate about technology, learning, and innovation. Currently working on **Personalized Daily Planner** project. 
+🎓 I'm a **final-year BS Computer Science student** at **Virtual University of Pakistan** and **Microsoft Certified: Azure Data Scientist Associate**, **HCIA Data Com Huawei Certified**, passionate about technology, learning, and innovation. Currently working on **Personalized Daily Planner** project. 
 💼 Currently, I’m working at the **National Youth Leadership Program**, where I assist in various **IT Professional Tasks**.  
 🌱 I’m also a **Ex-Fellow at Amal Academy**, a **Stanford University Inspired Program**, building essential professional communication and leadership skills to complement my technical expertise.
 
